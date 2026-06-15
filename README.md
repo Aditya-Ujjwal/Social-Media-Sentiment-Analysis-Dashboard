@@ -64,7 +64,7 @@ Extracts insights from social media post content through keyword and text-based 
 * Certain keywords are strongly associated with positive or negative sentiment.
 * Sentiment trends can be monitored over time to identify shifts in public opinion.
 
-!Images and Videos/Dashboard.png
+![Dashboard Preview](Images_and_Videos/Dashboard.png)
 
 ## Tools Used
 
